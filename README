@@ -1,0 +1,5 @@
+[Wings.py]
+An old script I wrote to add and remove files from jpegs. 
+It is really simple, just adds a compressed file to the end of the jpeg. 
+because of that it won't hold up to really intensive analysis, but it is a neat 
+albeit simple version of stenography.
